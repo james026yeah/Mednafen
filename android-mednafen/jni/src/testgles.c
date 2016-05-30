@@ -14,6 +14,7 @@
 #include <string.h>
 #include <math.h>
 
+#include "exc.h"
 #include "SDL_test_common.h"
 
 #if defined(__IPHONEOS__) || defined(__ANDROID__)
